@@ -1,0 +1,11 @@
+.video-item {
+  margin: 10px;
+  list-style: none;
+}
+.thumbnail {
+  height: 70px;
+  width: 180px;
+}
+.title {
+  font-size: 15px;
+}

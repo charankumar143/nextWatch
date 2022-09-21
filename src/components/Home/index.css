@@ -1,0 +1,13 @@
+.videos-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.nav-items-container {
+  display: flex;
+  flex-direction: row;
+}
+.items-list {
+  margin-left: 50px;
+}
